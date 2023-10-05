@@ -2,7 +2,7 @@
 
 ## Descrição
 
- Criação de um aplicativo JAVA que implemente um CRUD utilizando como interface a interação via terminal ou prompt de comando onde é apresentando um menu de opções.
+ Aplicativo JAVA que implemente um CRUD utilizando como interface a interação via terminal ou prompt de comando onde é apresentando um menu de opções.
      
 
 ### Objetivos da prática
