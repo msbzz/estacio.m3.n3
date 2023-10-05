@@ -44,11 +44,15 @@
 
  - Os relatórios podem ser encontrados na pasta raiz
 
-    ![image](https://github.com/msbzz/estacio.m3.n2/assets/44148209/918b82ca-3055-4bb4-91c2-7de81782f761)
+     ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/7de67716-e9a6-4c10-80e3-5b8c5c60df26)
+
+- Observaçoes
+   - A IDE utilizada foi Intellij IDEA
+   - O jdk utilizado foi o 20 
 
 
      
      ## Especificação
-       https://sway.office.com/LgKHUsnFtAiNx48i?ref=Link&loc=play
+      https://sway.office.com/AHDBJjulH6tHFEIf?ref=Link&loc=play
     
    
