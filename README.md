@@ -48,9 +48,18 @@
 
 - Observaçoes
    - A IDE utilizada foi Intellij IDEA
-   - O jdk utilizado foi o 20 
-
-
+   - O jdk utilizado foi o 20
+   - A execução do trabalho esta dividido em tres partes
+      - CRUD Pessoa Fisca (Pratica parte 1)
+        - execução do arquivo "CadastroBD_Part1_Fisica.java"
+      - CRUD Pessoa Juridica (Pratica parte 1)
+        - execução do arquivo "CadastroBD_Part1_Fisica.java"
+      - CRUD via menu (Pratica parte 2)
+        - execução do arquivo "CadastroBD_Part2.java"
+ 
+      ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/6e2a71cb-5bd4-4485-b01e-b214d078ab4c)
+ 
+       
      
      ## Especificação
       https://sway.office.com/AHDBJjulH6tHFEIf?ref=Link&loc=play
