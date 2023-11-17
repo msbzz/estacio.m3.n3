@@ -26,13 +26,13 @@ public class CadastroBD_Part1_Fisica {
         System.out.println("");
 
         PessoaFisica pfNw = new PessoaFisica();
-        pfNw.setNome("Virgulino da Silva");
+        pfNw.setNome("Virgulino da Silva2");
         pfNw.setCpf("04392077039");
         pfNw.setEstado("RJ");
         pfNw.setCidade("Rio de Janeiro");
         pfNw.setLogradouro("Av Atlantica em frente a praia, s/n");
         pfNw.setTelefone("(21)4499444");
-        pfNw.setEmail("virgulino@gmail.com");
+        pfNw.setEmail("virgulino2@gmail.com");
 
         ret= pessoaFisicaDAO.incluir(pfNw);
 
