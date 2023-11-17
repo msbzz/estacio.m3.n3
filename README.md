@@ -39,9 +39,6 @@
      ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/5a497556-008a-4a1c-abab-00b512c24860)
 
 
-    
-
-
  - Os relatórios podem ser encontrados na pasta raiz
 
      ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/7de67716-e9a6-4c10-80e3-5b8c5c60df26)
@@ -59,7 +56,15 @@
  
       ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/6e2a71cb-5bd4-4485-b01e-b214d078ab4c)
  
-       
+     ## configurando a conexão
+ 
+
+       ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/e3f7dffe-eebd-4020-90ea-9b0a31c6b111)
+ 
+
+       ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/62c3e016-7979-4cb0-8bdf-3516b0e2aad3)
+
+
      
      ## Especificação
       https://sway.office.com/AHDBJjulH6tHFEIf?ref=Link&loc=play
