@@ -50,7 +50,7 @@
       - CRUD Pessoa Fisca (Pratica parte 1)
         - execução do arquivo "CadastroBD_Part1_Fisica.java"
       - CRUD Pessoa Juridica (Pratica parte 1)
-        - execução do arquivo "CadastroBD_Part1_Fisica.java"
+        - execução do arquivo "CadastroBD_Part1_juridica.java"
       - CRUD via menu (Pratica parte 2)
         - execução do arquivo "CadastroBD_Part2.java"
  
