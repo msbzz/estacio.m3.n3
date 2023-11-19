@@ -57,11 +57,13 @@
       ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/6e2a71cb-5bd4-4485-b01e-b214d078ab4c)
  
      ## configurando a conexão
- 
+
+       - localização do arquivo  
 
        ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/e3f7dffe-eebd-4020-90ea-9b0a31c6b111)
  
-
+        - configuração das conexão propriedades de conexão    
+  
        ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/62c3e016-7979-4cb0-8bdf-3516b0e2aad3)
 
 
