@@ -58,7 +58,7 @@
  
      ## configurando a conexão
 
-       - localização do arquivo  
+       - localização do arquivo  db.properties
 
        ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/e3f7dffe-eebd-4020-90ea-9b0a31c6b111)
  
