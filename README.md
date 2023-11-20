@@ -26,7 +26,7 @@
      -   gerar operações CRUD diretamente com as classes DAO   
      -   Gerar Relatório discente de acompanhamento (RDA Part1.pdf) 
       
-   ![image](imgs/image1.png)
+   ![image](CadastroBD/src/imgs/image1.png)
 
  -  2º Procedimento | Criação do Cadastro em Modo Texto
 
@@ -36,12 +36,12 @@
      -   Gerar Relatório discente de acompanhamento (RDA Part2.pdf)
     
    
-     ![image](imgs/image2.png)
+     ![image](CadastroBD/src/imgs/image2.png)
 
 
  - Os relatórios podem ser encontrados na pasta raiz
 
-     ![image](imgs/image3.png)
+     ![image](CadastroBD/src/imgs/image3.png)
 
 - Observaçoes
    - A IDE utilizada foi Intellij IDEA
@@ -54,17 +54,17 @@
       - CRUD via menu (Pratica parte 2)
         - execução do arquivo "CadastroBD_Part2.java"
  
-      ![image](imgs/image4.png)
+      ![image](CadastroBD/src/imgs/image4.png)
  
      ## configurando a conexão
 
        - localização do arquivo  db.properties
 
-       ![image](imgs/image5.png)
+       ![image](CadastroBD/src/imgs/image5.png)
  
         - configuração das propriedades de conexão    
   
-       ![image](imgs/image6.png)
+       ![image](CadastroBD/src/imgs/image6.png)
 
 
      
