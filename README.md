@@ -26,7 +26,7 @@
      -   gerar operações CRUD diretamente com as classes DAO   
      -   Gerar Relatório discente de acompanhamento (RDA Part1.pdf) 
       
-   ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/2348498f-de9a-4711-ace3-d9e4198d4bf5)
+   ![image](imgs/image1.png)
 
  -  2º Procedimento | Criação do Cadastro em Modo Texto
 
@@ -36,12 +36,12 @@
      -   Gerar Relatório discente de acompanhamento (RDA Part2.pdf)
     
    
-     ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/5a497556-008a-4a1c-abab-00b512c24860)
+     ![image](https://imgs/image2.png)
 
 
  - Os relatórios podem ser encontrados na pasta raiz
 
-     ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/7de67716-e9a6-4c10-80e3-5b8c5c60df26)
+     ![image](https://imgs/image3.png)
 
 - Observaçoes
    - A IDE utilizada foi Intellij IDEA
@@ -54,17 +54,17 @@
       - CRUD via menu (Pratica parte 2)
         - execução do arquivo "CadastroBD_Part2.java"
  
-      ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/6e2a71cb-5bd4-4485-b01e-b214d078ab4c)
+      ![image](https://imgs/image4.png)
  
      ## configurando a conexão
 
        - localização do arquivo  db.properties
 
-       ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/e3f7dffe-eebd-4020-90ea-9b0a31c6b111)
+       ![image](https://imgs/image5.png)
  
         - configuração das propriedades de conexão    
   
-       ![image](https://github.com/msbzz/estacio.m3.n3/assets/44148209/62c3e016-7979-4cb0-8bdf-3516b0e2aad3)
+       ![image](https://imgs/image6.png)
 
 
      
