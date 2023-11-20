@@ -36,12 +36,12 @@
      -   Gerar Relatório discente de acompanhamento (RDA Part2.pdf)
     
    
-     ![image](https://imgs/image2.png)
+     ![image](imgs/image2.png)
 
 
  - Os relatórios podem ser encontrados na pasta raiz
 
-     ![image](https://imgs/image3.png)
+     ![image](imgs/image3.png)
 
 - Observaçoes
    - A IDE utilizada foi Intellij IDEA
@@ -54,17 +54,17 @@
       - CRUD via menu (Pratica parte 2)
         - execução do arquivo "CadastroBD_Part2.java"
  
-      ![image](https://imgs/image4.png)
+      ![image](imgs/image4.png)
  
      ## configurando a conexão
 
        - localização do arquivo  db.properties
 
-       ![image](https://imgs/image5.png)
+       ![image](imgs/image5.png)
  
         - configuração das propriedades de conexão    
   
-       ![image](https://imgs/image6.png)
+       ![image](imgs/image6.png)
 
 
      
